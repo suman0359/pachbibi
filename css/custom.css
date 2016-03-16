@@ -1,0 +1,13 @@
+.profile-pic{
+	width: 100%;
+}
+
+.profile-pic img{
+	width: 100%;
+}
+
+#owl-demo .item img{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
