@@ -29,7 +29,7 @@
     <link rel="shortcut icon" href="images/ico/favicon.ico">
 
     <link href="<?php echo base_url();?>owl-carousel/owl.carousel.css" rel="stylesheet">
-    
+
     <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/custom.css">
     <!-- JavaScripts -->
     <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
@@ -102,7 +102,7 @@
                 <div class="col-md-4">
                     <div class="logo">
                         <a href="index.html" title="Universe" rel="home">
-                            <img src="images/logo.png" alt="Universe">
+                            <img style="width: 150px;" src="images/logo.png" alt="Universe">
                         </a>
                     </div> <!-- /.logo -->
                 </div> <!-- /.col-md-4 -->
